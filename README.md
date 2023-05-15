@@ -1,4 +1,4 @@
-# Mass Smtps Checker
+# Hotmail Valid Email Checker
 
 
 ## What can it do?
@@ -15,14 +15,14 @@ This project aims to provide an easy-to-use python tool for checking emails if t
 **Linux**
 ```bash
 apt install git python2-pip
-git clone https://github.com/raizoworm/Smtps-Checker/
-cd Smtps-Checker
-python2 smtpchecker.py
+git clone https://github.com/raizoworm/Hotmail_Valid_Email_Checker/
+cd Hotmail_Valid_Email_Checker
+python2 hotmail.py
 ```
 **Windows**
 ```
 install python 2.7.14 ( add python to path )
-python smtpchecker.py
+python hotmail.py
 ```
 <img src="https://i.imgur.com/2TQqqj2.png">
 
