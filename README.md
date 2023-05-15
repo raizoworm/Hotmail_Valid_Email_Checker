@@ -8,7 +8,7 @@ This project aims to provide an easy-to-use python tool for checking emails if t
 
 ## Requirements
 * Python 2.7.14
-* Smtps (host|port|user|pass)
+* list of emails
 
 ---
 
@@ -24,7 +24,7 @@ python2 smtpchecker.py
 install python 2.7.14 ( add python to path )
 python smtpchecker.py
 ```
-<img src="banner.jpg">
+<img src="https://i.imgur.com/2TQqqj2.png">
 
 
 ## Issues & Features
